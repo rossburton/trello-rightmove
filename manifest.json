@@ -1,0 +1,17 @@
+{
+  "name": "RightMove",
+  "description": "RightMove desc",
+  "details": "RightMove details"
+  "icon": {
+    "url": "./rightmove.jpg"
+  },
+  "author": "Ross Burton",
+  "capabilities": [
+    "attachment-thumbnail"
+  ],
+  "connectors": {
+    "iframe": {
+      "url": "./index.html"
+    }
+  }
+}
