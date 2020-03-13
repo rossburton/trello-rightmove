@@ -3,7 +3,7 @@ TrelloPowerUp.initialize({
         if (!/^https?:\/\/www\.rightmove\.co\.uk\//.test(options.url)) {
             return {
                 url: options.url,
-                title: "Property on RightMove"
+                title: "Property on RightMove",
                 image: {
                     url: './rightmove.jpg',
                     log: true
